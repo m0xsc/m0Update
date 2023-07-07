@@ -1,9 +1,7 @@
 !#/bin/bash
-#Created by m0xsc
+#Created by mescu
 
 clear
-
-figlet -l m0xsc
 
 echo "https://twitter.com/m0xsc"
 
